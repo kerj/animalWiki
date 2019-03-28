@@ -1,3 +1,13 @@
 .hidden {
   display: none;
 }
+
+.container {
+  max-width: 650px;
+  margin-top: 25vw;
+}
+
+#turtle {
+  border: 15px solid #5a8457;
+  padding: 10px;
+}
